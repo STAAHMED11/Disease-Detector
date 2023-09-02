@@ -6,4 +6,4 @@ Features
 Upload MRI or X-ray images for disease detection.
 Efficient and accurate disease prediction using deep learning models.
 User-friendly web interface for easy image upload and result retrieval.
-![Prediction interface]([Disease-Detector/Screenshot from 2023-04-29 11-15-05.png](https://github.com/STAAHMED11/Disease-Detector/blob/98b0fae408f8699faf6279266927b7aba029a0a2/Screenshot%20from%202023-04-29%2011-15-05.png)https://github.com/STAAHMED11/Disease-Detector/blob/98b0fae408f8699faf6279266927b7aba029a0a2/Screenshot%20from%202023-04-29%2011-15-05.png)
+![Prediction interface](https://github.com/STAAHMED11/Disease-Detector/blob/98b0fae408f8699faf6279266927b7aba029a0a2/Screenshot%20from%202023-04-29%2011-15-05.png)
